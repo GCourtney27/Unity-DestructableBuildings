@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# Project Assets
+Assets/Animation/
+Assets/Animations/
+Assets/Textures/
+Assets/Audio/
+Assets/Physics Tank Maker/
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 

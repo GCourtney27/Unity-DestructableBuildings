@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: b5cea56c09a29d346a46bdb149ee6251
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel_Back1
+    100004: Barrel_Front
+    100006: Barrel_Middle
+    100008: HeadLight_Left
+    100010: HeadLight_Right
+    100012: joint2
+    100014: joint2 1
+    100016: joint2 10
+    100018: joint2 11
+    100020: joint2 12
+    100022: joint2 13
+    100024: joint2 14
+    100026: joint2 15
+    100028: joint2 16
+    100030: joint2 17
+    100032: joint2 18
+    100034: joint2 19
+    100036: joint2 2
+    100038: joint2 20
+    100040: joint2 3
+    100042: joint2 4
+    100044: joint2 5
+    100046: joint2 6
+    100048: joint2 7
+    100050: joint2 8
+    100052: joint2 9
+    100054: L1
+    100056: L10
+    100058: L2
+    100060: L3
+    100062: L4
+    100064: L5
+    100066: L6
+    100068: L7
+    100070: L8
+    100072: L9
+    100074: Main_Body
+    100076: R1
+    100078: R10
+    100080: R2
+    100082: R3
+    100084: R4
+    100086: R5
+    100088: R6
+    100090: R7
+    100092: R8
+    100094: R9
+    100096: Root
+    100098: Track_Left
+    100100: Track_LeftCopy
+    100102: Track_Right
+    100104: Track_RightCopy
+    100106: TurretHead
+    100108: Wheel_L_1
+    100110: Wheel_L_10
+    100112: Wheel_L_2
+    100114: Wheel_L_3
+    100116: Wheel_L_4
+    100118: Wheel_L_5
+    100120: Wheel_L_6
+    100122: Wheel_L_7
+    100124: Wheel_L_8
+    100126: Wheel_L_9
+    100128: Wheel_R_1
+    100130: Wheel_R_10
+    100132: Wheel_R_2
+    100134: Wheel_R_3
+    100136: Wheel_R_4
+    100138: Wheel_R_5
+    100140: Wheel_R_6
+    100142: Wheel_R_7
+    100144: Wheel_R_8
+    100146: Wheel_R_9
+    400000: //RootNode
+    400002: Barrel_Back1
+    400004: Barrel_Front
+    400006: Barrel_Middle
+    400008: HeadLight_Left
+    400010: HeadLight_Right
+    400012: joint2
+    400014: joint2 1
+    400016: joint2 10
+    400018: joint2 11
+    400020: joint2 12
+    400022: joint2 13
+    400024: joint2 14
+    400026: joint2 15
+    400028: joint2 16
+    400030: joint2 17
+    400032: joint2 18
+    400034: joint2 19
+    400036: joint2 2
+    400038: joint2 20
+    400040: joint2 3
+    400042: joint2 4
+    400044: joint2 5
+    400046: joint2 6
+    400048: joint2 7
+    400050: joint2 8
+    400052: joint2 9
+    400054: L1
+    400056: L10
+    400058: L2
+    400060: L3
+    400062: L4
+    400064: L5
+    400066: L6
+    400068: L7
+    400070: L8
+    400072: L9
+    400074: Main_Body
+    400076: R1
+    400078: R10
+    400080: R2
+    400082: R3
+    400084: R4
+    400086: R5
+    400088: R6
+    400090: R7
+    400092: R8
+    400094: R9
+    400096: Root
+    400098: Track_Left
+    400100: Track_LeftCopy
+    400102: Track_Right
+    400104: Track_RightCopy
+    400106: TurretHead
+    400108: Wheel_L_1
+    400110: Wheel_L_10
+    400112: Wheel_L_2
+    400114: Wheel_L_3
+    400116: Wheel_L_4
+    400118: Wheel_L_5
+    400120: Wheel_L_6
+    400122: Wheel_L_7
+    400124: Wheel_L_8
+    400126: Wheel_L_9
+    400128: Wheel_R_1
+    400130: Wheel_R_10
+    400132: Wheel_R_2
+    400134: Wheel_R_3
+    400136: Wheel_R_4
+    400138: Wheel_R_5
+    400140: Wheel_R_6
+    400142: Wheel_R_7
+    400144: Wheel_R_8
+    400146: Wheel_R_9
+    2100000: Material_1_004
+    2100002: Material_2
+    2100004: lambert1
+    2300000: Barrel_Back1
+    2300002: Barrel_Front
+    2300004: Barrel_Middle
+    2300006: HeadLight_Left
+    2300008: HeadLight_Right
+    2300010: Main_Body
+    2300012: Track_Left
+    2300014: Track_Right
+    2300016: TurretHead
+    2300018: Wheel_L_1
+    2300020: Wheel_L_10
+    2300022: Wheel_L_2
+    2300024: Wheel_L_3
+    2300026: Wheel_L_4
+    2300028: Wheel_L_5
+    2300030: Wheel_L_6
+    2300032: Wheel_L_7
+    2300034: Wheel_L_8
+    2300036: Wheel_L_9
+    2300038: Wheel_R_1
+    2300040: Wheel_R_10
+    2300042: Wheel_R_2
+    2300044: Wheel_R_3
+    2300046: Wheel_R_4
+    2300048: Wheel_R_5
+    2300050: Wheel_R_6
+    2300052: Wheel_R_7
+    2300054: Wheel_R_8
+    2300056: Wheel_R_9
+    3300000: Barrel_Back1
+    3300002: Barrel_Front
+    3300004: Barrel_Middle
+    3300006: HeadLight_Left
+    3300008: HeadLight_Right
+    3300010: Main_Body
+    3300012: Track_Left
+    3300014: Track_Right
+    3300016: TurretHead
+    3300018: Wheel_L_1
+    3300020: Wheel_L_10
+    3300022: Wheel_L_2
+    3300024: Wheel_L_3
+    3300026: Wheel_L_4
+    3300028: Wheel_L_5
+    3300030: Wheel_L_6
+    3300032: Wheel_L_7
+    3300034: Wheel_L_8
+    3300036: Wheel_L_9
+    3300038: Wheel_R_1
+    3300040: Wheel_R_10
+    3300042: Wheel_R_2
+    3300044: Wheel_R_3
+    3300046: Wheel_R_4
+    3300048: Wheel_R_5
+    3300050: Wheel_R_6
+    3300052: Wheel_R_7
+    3300054: Wheel_R_8
+    3300056: Wheel_R_9
+    4300000: TurretHead
+    4300002: Track_Right
+    4300004: Track_Left
+    4300006: Barrel_Front
+    4300008: Barrel_Middle
+    4300010: Wheel_R_9
+    4300012: Wheel_R_10
+    4300014: Wheel_R_8
+    4300016: Wheel_R_7
+    4300018: Wheel_R_6
+    4300020: Wheel_R_5
+    4300022: Wheel_R_4
+    4300024: Wheel_R_3
+    4300026: Wheel_R_2
+    4300028: Wheel_L_10
+    4300030: Wheel_L_9
+    4300032: Wheel_L_8
+    4300034: Wheel_L_7
+    4300036: Wheel_L_6
+    4300038: Wheel_L_5
+    4300040: Wheel_L_4
+    4300042: Wheel_L_3
+    4300044: Wheel_L_2
+    4300046: Wheel_L_1
+    4300048: Barrel_Back1
+    4300050: Wheel_R_1
+    4300052: Main_Body
+    4300054: HeadLight_Left
+    4300056: HeadLight_Right
+    4300058: Track_LeftCopy
+    4300060: Track_RightCopy
+    9500000: //RootNode
+    13700000: Track_LeftCopy
+    13700002: Track_RightCopy
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.7
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
